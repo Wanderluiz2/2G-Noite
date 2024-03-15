@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: #383d58;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #ffffff;
+}
